@@ -1,2 +1,2 @@
 print('Hello world!!')
-i=o
+i=0
